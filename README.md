@@ -9,5 +9,6 @@
   
 ## 使用
 
+
   - 打开项目的properties文件
   - 在编辑区域“右键”单击 -> “i18n editor”，或使用快捷键 control + command + Enter(Mac)，windows(请参考右键菜单)
