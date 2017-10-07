@@ -1,6 +1,8 @@
-# properties-editor
-编辑国际化文本，快速转换properties文件的编码(unicode)
+# idea plugins properties-editor
+Intellij Idea 编辑国际化文本，快速转换properties文件的编码(unicode)
 ## 安装
+打开IDEA软件
+
 ### Windows
   File -> Setting -> Plugins -> Install plugin from disk -> choose your file
 
